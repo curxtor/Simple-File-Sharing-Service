@@ -1,5 +1,4 @@
-# Simple-File-Sharing-Service
-Simple File Sharing Service with Vue3 and NodeJS
+# Simple File Sharing Service with Vue3 [![Vue3](https://simpleicons.org/icons/vuedotjs.svg)]
 =======
 # tasky
 
